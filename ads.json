@@ -1,8 +1,8 @@
 {
   "AdsManager": {
     "ShowAds":true,
-    "ShowDropAds":false,
-    "ShowCpaAds":false,
+    "ShowDropAds":true,
+    "ShowCpaAds":true,
     "AdmobClick":3,
     "BannerAds":"ca-app-pub-3773257020474386/2339940457",
     "InterstitialAds":"ca-app-pub-3773257020474386/1026858786",
